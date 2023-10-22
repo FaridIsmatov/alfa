@@ -1,0 +1,21 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+}
+.a1 {
+    text-align: center;
+}
+.a3 {
+    text-align: center;
+}
+.a2 {
+    color: chartreuse;
+}
+body {
+    background-color: darkblue;
+}
+div {
+    color: aliceblue;
+}
